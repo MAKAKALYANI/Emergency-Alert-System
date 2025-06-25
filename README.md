@@ -31,7 +31,7 @@ In today’s world, personal safety is a growing concern, especially in remote a
 | Lithium-Ion Battery    | Portable power supply                         |
 | Breadboard & Jumpers   | For prototyping and connecting components     |
 
-📄 Full list available in [`components_list.md`](components_list.md)
+📄 Full list available in [`components_list`](components_list)
 
 ---
 
