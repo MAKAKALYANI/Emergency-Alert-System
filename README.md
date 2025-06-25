@@ -51,7 +51,7 @@ In today’s world, personal safety is a growing concern, especially in remote a
 
 ## 🔄 Block Diagram
 
-![Block Diagram](images/block_diagram.jpg)
+![block diagram.jpg](block diagram.jpg)
 
 ---
 
