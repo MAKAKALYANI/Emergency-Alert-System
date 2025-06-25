@@ -1,4 +1,4 @@
-# Emergency-Alert-System
+
 # 🆘 Emergency Alert System
 
 An IoT-based safety device designed to help users in distress by sending their real-time location to emergency contacts and authorities via Bluetooth and GPS technology — all triggered by a single push button.
@@ -51,8 +51,7 @@ In today’s world, personal safety is a growing concern, especially in remote a
 
 ## 🔄 Block Diagram
 
-![block diagram.jpg](block diagram.jpg)
-
+[``](components_list)
 ---
 
 ## 🖥️ Circuit / Schematic
