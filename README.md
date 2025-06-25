@@ -57,7 +57,7 @@ In today’s world, personal safety is a growing concern, especially in remote a
 
 ## 🖥️ Circuit / Schematic
 
-![Circuit Diagram](circuit_diagram.png)
+![Schematic.jpg](Schematic.jpg)
 
 ---
 
