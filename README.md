@@ -50,7 +50,7 @@ In today’s world, personal safety is a growing concern, especially in remote a
 ---
 
 ## 🔄 Block Diagram
-![Block Diagram](block diagram.jpg)
+![BLOCKDIAGRAM.jpg](BLOCKDIAGRAM.jpg)
 ---
 
 ## 🖥️ Circuit / Schematic
