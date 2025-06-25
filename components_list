@@ -1,0 +1,31 @@
+# 📦 Components List – Emergency Alert System
+
+This document lists all the hardware components used to build the **Emergency Alert System**, designed to send real-time GPS location alerts via Bluetooth when the user is in danger.
+
+---
+
+## 🔧 Core Components
+
+| Component                | Quantity | Description                                                                 |
+|--------------------------|----------|-----------------------------------------------------------------------------|
+| **Arduino UNO**          | 1        | Main microcontroller to control the system logic                            |
+| **NEO-6M GPS Module**    | 1        | Captures real-time geographic coordinates of the user                       |
+| **HC-05 Bluetooth Module** | 1      | Sends data wirelessly to a paired mobile device via Bluetooth               |
+| **Push Button**          | 1        | Triggers the emergency alert message when pressed                           |
+| **Lithium-Ion Battery (or 9V)** | 1 | Portable power supply for standalone use                                    |
+| **Jumper Wires**         | 10+      | Connects components on the breadboard                                       |
+| **Breadboard**           | 1        | For prototyping and non-permanent circuit setup                             |
+| **LED** *(optional)*     | 1        | Visual indicator that the alert has been triggered                          |
+| **Resistors (220Ω/1kΩ)** | As needed | Used with LED or button for current limiting                                |
+
+---
+
+## 📝 Notes
+
+- Ensure the **GPS module has clear sky access** for accurate location detection.
+- The **Bluetooth module** must be pre-paired with the mobile device to receive data.
+- The **battery should be rechargeable** or have adequate capacity for mobile use.
+- Use **heat shrink tubing or insulation tape** for wire safety in final enclosures.
+
+---
+
