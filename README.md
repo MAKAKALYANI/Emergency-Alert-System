@@ -51,7 +51,7 @@ In today’s world, personal safety is a growing concern, especially in remote a
 
 ## 🔄 Block Diagram
 
-![block diagram.jpg](block diagram.jpg)
+![]()
 
 ---
 
@@ -72,7 +72,7 @@ In today’s world, personal safety is a growing concern, especially in remote a
 
 ## 📷 Working Prototype
 
-![Working Prototype](images/working_prototype.jpg)
+![working_prototype.jpg](working_prototype.jpg)
 
 ---
 
